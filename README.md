@@ -11,12 +11,10 @@ The update doesn't affect on initial gameplay and it doesn't add any new content
 - Fixes minor issue with displaying mines number on level restart
 - Fixes several typos in the story text
 
-
-
 Installation
 ------------
 1. Download and install the version 1.0.0 of Three'n'itty from Itch at: https://undrev.itch.io/threenitty
-2. Download the patch. 
+2. Download the patch at: https://github.com/undrev/threenitty/archive/refs/tags/v1.0.1.zip 
 3. Overwrite initial threenitty.das file with the new one from this patch.
 4. Run the game by selecting start.bat
 
